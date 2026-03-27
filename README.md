@@ -1,1 +1,1 @@
-# Suffix-Tree-algorithm-
+# suffixtree
